@@ -8,6 +8,7 @@
 
 * [**Αρχική**](https://github.com/std130962/travel-guide-info/wiki)
 * [**Περίληψη**](https://github.com/std130962/travel-guide-info/wiki/%CE%A0%CE%B5%CF%81%CE%AF%CE%BB%CE%B7%CF%88%CE%B7)
+* [**Εργασία και παρουσίαση (pdf)**](https://github.com/std130962/travel-guide-info/wiki/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7-(pdf))
 * [**Screenshots**](https://github.com/std130962/travel-guide-info/wiki/Screeshots)
 * [**Videos**](https://github.com/std130962/travel-guide-info/wiki/Demos-videos)
 * [**Κώδικας και downloads**](https://github.com/std130962/travel-guide-info/wiki/%CE%9A%CF%8E%CE%B4%CE%B9%CE%BA%CE%B1%CF%82-%CE%BA%CE%B1%CE%B9-downloads)
